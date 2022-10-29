@@ -1,5 +1,5 @@
 # DingJunPythonBBS
-# 完美基于Python，全面中文。(下载之前请先安装中文Python,在 pythondown\download.exe)
+# 完美基于Python，全面中文。(下载之前请先安装中文Python.)
 对不起了，当时想尝鲜，下载了python中文版
 只能让你们下载了。
 # 支持功能
@@ -9,7 +9,7 @@
 
 English:
 # DingJunPythonBBS
-# Perfect Powered by Python，Comprehensive Chinese.(DownloadWaring:DownloadChinesePython,Stay pythondown\download.exe)
+# Perfect Powered by Python，Comprehensive Chinese.(DownloadWaring:DownloadChinesePython.)
 Sorry,I wanted to try some fresh food,Download Python Chinese
 Only let Your Download.
 # Support functions
